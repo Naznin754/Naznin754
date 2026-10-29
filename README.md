@@ -18,7 +18,6 @@ CSE student at United International University.
 Currently exploring software development, AI,
 databases and embedded systems.
 
-naznin@github:~$ tagline
 Start small. Build it. Keep improving it.
 ```
 
