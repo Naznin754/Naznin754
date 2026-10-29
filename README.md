@@ -13,7 +13,6 @@
 ## Terminal
 
 ```bash
-naznin@github:~$ whoami
 CSE student at United International University.
 Currently exploring software development, AI,
 databases and embedded systems.
@@ -32,7 +31,6 @@ My interests center on:
 - Software engineering and full-stack development
 - Artificial intelligence and machine learning
 - Database design and backend systems
-- Embedded systems and hardware–software integration
 - Learning by building real, working projects
 
 I believe in building things that work, then growing through hands-on engineering.
@@ -43,7 +41,7 @@ I believe in building things that work, then growing through hands-on engineerin
 
 | Languages & Software | Web & Databases | Embedded & AI |
 |---|---|---|
-| Java · JavaScript · Python · C/C++ · PHP | React · Next.js · Node.js · Spring Boot · MySQL · PostgreSQL · SQLite | Raspberry Pi · ESP32 · Microcontrollers |
+| Java · JavaScript · Python · C/C++ · PHP | React · Next.js · Node.js · Spring Boot · MySQL · PostgreSQL | Raspberry Pi · ESP32 · Microcontrollers |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,react,nextjs,nodejs,spring,php,mysql,postgres,sqlite,git,github,arduino,raspberrypi,vscode&perline=9" alt="Skills" />
@@ -84,15 +82,6 @@ Handles startup applications, mentoring and progress tracking. Advanced Object-O
 `PHP` · `HTML` · `CSS` · `MySQL`
 
 Manages aid requests, inventory and delivery records. Database Management course project.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naznin754&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naznin754&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
-</p>
 
 ---
 
